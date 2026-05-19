@@ -116,7 +116,7 @@ body {
 }
 
 .quiz-form input[type="radio"] {
-    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .correct-answer-highlight {
@@ -331,7 +331,7 @@ body {
 .game-over {
     margin-top: 20px;
     text-align: center;
-    color: #2c3e50;
+    color: #ffffff;
 }
 
 .game-over h4 {
